@@ -21,7 +21,7 @@
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/seu-usuario/digital-vortex.git
+    git clone https://github.com/IcaroWil/Digital-Vortex
     ```
 
 2. Access the project directory:
@@ -76,7 +76,6 @@ Here's an overview of the project's structure:
 ## Features
 
 - Viewing the list of games.
-- Searching for games by name.
 - Detailed viewing of games.
 - Viewing creators and stores.
 - Navigation between different routes in the app.
