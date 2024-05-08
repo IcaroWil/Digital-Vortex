@@ -85,7 +85,7 @@ Here's an overview of the project's structure:
 
 ## Author
 
-[Icaro] <icarofaria11@gmail.com>
+IcaroWil <icarofaria11@gmail.com>
 
 ## Useful Links
 
