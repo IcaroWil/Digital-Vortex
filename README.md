@@ -98,7 +98,7 @@ IcaroWil <icarofaria11@gmail.com>
 
 ![HomePageBanner](screenshots/HomePageBanner.jpg)
 ![HomePageTopGames](screenshots/HomePageTopGames.jpg)
-![HomePageSlider](screenshots/HomePageSldier.jpg)
+![HomePageSlider](screenshots/HomePageSlider.jpg)
 ![HomePageTopGenre](screenshots/HomePageTopGenre.jpg)
 ![HomePageStores](screenshots/HomePageStores.jpg)
 ![PageCreators](screenshots/PageCreators.jpg)
