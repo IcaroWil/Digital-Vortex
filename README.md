@@ -96,3 +96,12 @@ IcaroWil <icarofaria11@gmail.com>
 
 ## Application Screenshots
 
+![HomePageBanner](screenshorts/HomePageBanner.jpg)
+![HomePageTopGames](screenshorts/HomePageTopGames.jpg)
+![HomePageSlider](screenshorts/HomePageSldier.jpg)
+![HomePageTopGenre](screenshorts/HomePageTopGenre.jpg)
+![HomePageStores](screenshorts/HomePageStores.jpg)
+![PageCreators](screenshorts/PageCreators.jpg)
+![PageStores](screenshorts/PageStores.jpg)
+![PageGames](screenshorts/PageGames.jpg)
+
